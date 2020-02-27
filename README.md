@@ -2,7 +2,7 @@
 This repository is based on Akka HTTP & it's Ruting DSL.
 Goal is to provide backend API for Ethereum blockchain parsed data (mainly blocks & transactions)
 
-Currently these endpoints are functional. Also screenshots attached.
+Currently these endpoints are functional. Also screenshots attached in /screenshots directory.
 
 http://localhost:8080/blocks/0/10  
 http://localhost:8080/blocks/500 
